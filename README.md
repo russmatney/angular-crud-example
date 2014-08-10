@@ -1,4 +1,5 @@
-#angular-crud
+angular-crud-example
+====================
 
 ##Up and running
 
