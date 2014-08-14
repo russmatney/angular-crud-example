@@ -30,4 +30,18 @@ Assuming the object is a Unicorn, the user-stories are roughly as follows:
 > As a user, I want to delete a Unicorn.
 
 AngularJS provides a number of tools for handling interactions with RESTful
-APIs, and parallels to these stories show up in countless business-related apps.
+APIs, and parallels to these stories show up in every business-related app.
+
+In this repo, I want to build one method of handling CRUD via an Angular
+front-end.
+
+##Structure
+
+###UnicornResource
+
+###UnicornService
+
+###UnicornController
+
+###Display and Edit Unicorn Directive(s)
+
